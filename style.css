@@ -1,0 +1,115 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+
+}
+
+/* First Navbar */
+.navbar {
+    list-style: none;
+    display: flex;
+    background-color: rgb(30, 10, 10);
+    color: white;
+    padding: 15px;
+    box-shadow: 5px 5px 10px gray;
+}
+
+.Logobakery {
+    text-transform: uppercase;
+    font-size: large;
+    font-weight: bold;
+    font-family: sans-serif;
+    margin: 0% 25% 0% 5%;
+
+}
+
+.button {
+    width: 180%;
+    background-color: rgb(12, 149, 240);
+    color: white;
+    border-radius: 15px;
+    padding: 10% 0 10% 0;
+
+}
+
+.pages {
+    margin: 0px 20px 0px 20px;
+
+}
+
+.pages1 {
+    margin: 0px 490px 0px 20px;
+
+}
+
+/* Second Navbar */
+.navbar2 {
+    list-style: none;
+    display: flex;
+    background-color: rgb(30, 10, 10);
+    color: white;
+    padding: 15px;
+    box-shadow: 5px 5px 10px gray;
+}
+
+.Logobakery2 {
+    text-transform: uppercase;
+    font-size: large;
+    font-weight: bold;
+    font-family: sans-serif;
+    margin: 0% 0% 0% 60%;
+
+}
+
+.button2 {
+    width: 180%;
+    background-color: rgb(12, 149, 240);
+    color: white;
+    border-radius: 15px;
+    padding: 10% 0 10% 0;
+
+}
+
+.services2 {
+    margin: 0px 20px 0px 70px;
+
+}
+
+.pages2 {
+    margin: 0px 20px 0px 20px;
+
+}
+
+/* Third Navbar */
+.navbar3 {
+    list-style: none;
+    display: flex;
+    background-color: rgb(30, 10, 10);
+    color: white;
+    padding: 15px;
+    box-shadow: 5px 5px 10px gray;
+}
+
+.Logobakery3 {
+    text-transform: uppercase;
+    font-size: large;
+    font-weight: bold;
+    font-family: sans-serif;
+    margin: 0% 57% 0% 5%;
+
+}
+
+.button3 {
+    width: 180%;
+    background-color: rgb(12, 149, 240);
+    color: white;
+    border-radius: 15px;
+    padding: 10% 0 10% 0;
+
+}
+
+.pages3 {
+    margin: 0px 20px 0px 20px;
+
+}
